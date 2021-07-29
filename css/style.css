@@ -1,0 +1,57 @@
+ /* header style  */
+.head-color {
+    background-color: #264653;
+}
+.honda-button{
+    padding: 10px 40px;
+    background: #E76F51;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+    /* New Bike section  */
+
+.custom-p-color {
+    font-size: 12px;
+    text-align: center;
+    color: #E76F51;
+}
+
+.gry-1 {
+    filter: grayscale(100%);
+}
+.gry-2 {
+    filter: grayscale(100%);
+}
+
+ /* testimonial  */
+
+.h1style {
+    color: #E76F51;
+}
+.images-size {
+ 
+    width: 150px;
+    height: 150px;
+    margin-top: 55px;
+    margin-bottom: 20px;
+}
+
+
+.name {
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.profession {
+    font-size: 14px;
+}
+.fa, .fas {
+    color: #E76F51;
+}
+.fa, .far, .fas {
+    color: #E76F51;
+}
